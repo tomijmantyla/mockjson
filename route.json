@@ -1,0 +1,6 @@
+{
+    "/api/*": "/$1",
+    "/hierarchies": "/hierarchies",
+    "/hierarchies/:id": "/hierarchies/:id",
+    "/users/currentuser": "/currentuser"
+}
